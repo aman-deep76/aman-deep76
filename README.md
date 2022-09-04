@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @aman-deep76
+- 👋 Hi, I’m Amandeep.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning html, css and javascript.
+- 🌱 I’m currently javascript, NodeJS.
